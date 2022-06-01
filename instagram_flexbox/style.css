@@ -124,7 +124,7 @@ body{
 }
 
 .app-download:nth-child(2){
-    background-image: url('./img/play-store-button.png');
+    background-image: url('./img/app-store-button.png');
 }
 
 /*MEDIA QUERIES*/
